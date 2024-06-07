@@ -31,8 +31,12 @@ python decode_data.py --input encoded_sequence.txt --output decoded_dataset.csv
 Here are some examples of encoding and decoding using DataHelix:
 
 ### Example
-
-![Encoding Example GIF](examples/encoding.gif)
+<div style="display: inline-block;">
+    <img src="output/Figure_2.png" alt="Output PNG" width="300"/>
+</div>
+<div style="display: inline-block;">
+    <img src="output/dna_animation.gif" alt="DNA Animation" width="300"/>
+</div>
 
 ## Contributing
 
